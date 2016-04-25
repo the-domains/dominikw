@@ -1,0 +1,28 @@
+name: dominikw
+favicon: null
+layout_spectrum: 0.09171712468378246
+typography_spectrum: 0.47566695255227387
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21526696905493736
+  lightness: 0.1918100486509502
+  saturation: 0.2669363678433001
+  rhythmicContrast: 0.6563839062582701
+purpose: []
